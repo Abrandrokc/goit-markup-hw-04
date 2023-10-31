@@ -67,7 +67,10 @@ transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);}
         padding: 24px 0;
         transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     }
-.acctive {
+    .menu .mail-phon{
+        transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    }
+.menu .acctive {
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     position: relative; 
 color: #404bbf;}
