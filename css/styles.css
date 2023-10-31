@@ -62,13 +62,13 @@ a {text-decoration: none;}
 display: flex;gap: 40px;
 }
 .menu { padding: 24px 0;
-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);}
+transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);}
  .menu .sate {
         padding: 24px 0;
-        transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+        transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     }
 .acctive {
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     position: relative; 
 color: #404bbf;}
 .acctive::after {
