@@ -147,10 +147,16 @@ gap: 24px;
 }
 
 .benefits-images-list {
-    border-radius: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    border-radius: 4px;
     border-color: #8E8F99;
     background-color: #F4F4FD;
-    padding: 24px 100px
+    padding: 24px 100px;
+    margin-bottom: 8px;
+
 }
 
 .Company-benefits {
