@@ -320,19 +320,12 @@ align-items: baseline}
     letter-spacing: 0.02em;
     width: 269px;
 }
-.footer-images {
-    display: flex;
-    margin-top: 8px;
-    gap: 16px;
-}
-
 .footer-images-list {
     border-radius: 50%;
     border-color: #4D5AE5;
     background-color: #4D5AE5;
     width: 40px;
     height: 40px;
-    padding: 12px 12px;
 }
 .footer-link {
     width: 100%;
@@ -347,6 +340,7 @@ align-items: baseline}
 .footer-link:hover, .footer-link:focus {
     background-color: #31d0aa;
 }
+
 .footer-team-images {
     display: flex;
     margin-top: 8px;
@@ -354,11 +348,4 @@ align-items: baseline}
     margin-left: 16px;
     margin-right: 16px;
     justify-content: center;
-}
-
-.footer-images-list {
-    border-radius: 50%;
-    width: 40px;
-    height: 40px;
-
 }
